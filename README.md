@@ -2,8 +2,6 @@
 
 
 
-Voici mon premier projet sur MySQL 8.0. 
-
 Actuellement en recherche de ma résidence principale j'ai voulu faire un étude sur le marché immobilière du secteur où j'habite tout en employant des outils tels que MySQL, Workbench et  PgAdmin pour m'aider dans la prise de décision
 
 >"Si vous éprouvez quelque chose – enregistrez-le. Si vous enregistrez quelque chose – téléchargez-le. Si vous téléchargez quelque chose – partagez-le." – Yuval Noah Harari
